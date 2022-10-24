@@ -1,0 +1,52 @@
+/* @import url('https://fonts.google.com/specimen/IM+Fell+DW+Pica');
+h1 {
+    font-family: IM Fell DE Pica;
+} */
+body {
+    background-image: url("../Images/sky-sunset.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    
+}
+.h1 {
+    font-family: cursive;
+    color: red;
+    font-style: normal;
+    font-weight: 200;
+}
+.h2 {
+    font-family:'Times New Roman', Times, serif;
+    color: rgb(156, 206, 250);
+    font-style: italic;
+    font-weight: 500;
+}
+.h3 {
+    font-family: monospace; 
+    color: greenyellow; 
+    font-style: oblique;
+    font-weight: 900;
+    font-size: larger;
+}
+div {
+    background-color: rgba(0, 0, 0, 0.499);
+    width: 50%;
+    margin: 20px auto;
+    border-radius: 2rem;
+    padding: 1rem 5rem 5rem 1rem;
+
+}
+.right {
+    text-align: right; color: beige;
+}
+.h4 {
+    text-align: center;
+    color: blanchedalmond;
+}
+.h5 {
+    text-align: justify;
+    color: cornsilk;
+}
+.h6 {
+    text-align: right;
+    color: floralwhite;
+}
